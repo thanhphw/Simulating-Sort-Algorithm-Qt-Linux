@@ -1,0 +1,3 @@
+N: 4
+Type of Sort: 0
+3 2 1 4 
